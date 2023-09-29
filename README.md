@@ -10,7 +10,7 @@ To get started with this Student Management System, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [Student-management-system](https://github.com/ajeetkumarrauniyar/Student-management-system)
+   git clone [https://github.com/ajeetkumarrauniyar/Student-management-system]
    ```
 
 2. Install the required dependencies:
