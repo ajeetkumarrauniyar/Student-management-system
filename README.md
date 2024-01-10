@@ -81,6 +81,9 @@ Here are some example requests and responses:
   Student added successfully!
 
 ### Retrieving All Students
+- **Welcome Screen**
+
+![Welcome](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/welcome.png)
 
 - **Request:**
 
@@ -88,7 +91,7 @@ Here are some example requests and responses:
 
 - **Response:**
 
-(https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/welcome.png)
+![All Students](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/all_student_data.png)
 
 ### Finding the Topper
 
@@ -113,20 +116,20 @@ Here are some example requests and responses:
 
 - **Response:**
 
-  ![Search Result](/screenshots/search_result.png)
+  ![Search Result](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/student_detail.png)
 
 ## Screenshots
 
 Screenshots of the application:
 
 - All Students
-  ![All Students](/screenshots/all_students.png)
+  ![All Students](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/all_student_data.png)
 
 - Topper
   ![Topper](/screenshots/topper.png)
 
 - Search Result
-  ![Search Result](/screenshots/search_result.png)
+  ![Search Result](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/search_result.png)
 
 ## Author
 
