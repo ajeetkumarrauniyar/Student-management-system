@@ -88,7 +88,7 @@ Here are some example requests and responses:
 
 - **Response:**
 
-  ![All Students](/screenshots/all_students.png)
+  ![All Students](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/welcome.png)
 
 ### Finding the Topper
 
@@ -98,7 +98,7 @@ Here are some example requests and responses:
 
 - **Response:**
 
-  ![Topper](/screenshots/topper.png)
+  ![Topper](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/topper_student.png)
 
 ### Searching for a Student by ID
 
