@@ -88,7 +88,7 @@ Here are some example requests and responses:
 
 - **Response:**
 
-  ![All Students](https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/welcome.png)
+(https://github.com/ajeetkumarrauniyar/Student-management-system/blob/main/welcome.png)
 
 ### Finding the Topper
 
